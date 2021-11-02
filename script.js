@@ -106,7 +106,7 @@ var Typer={
 }
 
 Typer.speed=120;
-Typer.file='https://raw.githubusercontent.com/bio911/ddl/main/ddl1.txt';
+Typer.file='https://raw.githubusercontent.com/bio911/DinDinLetter/main/ddl1.txt';
 // Typer.file='https://raw.githubusercontent.com/duiker101/Hacker-Typer/master/kernel.txt';
 Typer.init();
 
